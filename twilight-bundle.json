@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "mobile",
+        "en": "elements"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "sokomh11@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/sokomh11-create/tw-elements",
+    "components": []
+}
